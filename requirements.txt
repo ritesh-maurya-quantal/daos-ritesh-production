@@ -1,0 +1,11 @@
+notion-client>=2.2.1
+python-dotenv>=1.0.0
+openai>=1.12.0
+langchain>=0.1.0
+langchain-openai>=0.0.8
+langgraph>=0.0.40
+langchain-core>=0.1.0
+typing-extensions>=4.5.0
+pydantic>=2.0.0
+requests>=2.28.0
+gradio>=4.0.0
